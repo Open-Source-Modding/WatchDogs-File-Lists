@@ -1,4 +1,4 @@
-; 10220/10237 (99%)
+; 10237/10237 (100%)
 credits\pc\credits.xml
 domino\library\common\checkpointrace.checkpointcontroller.debug.lua
 domino\library\common\checkpointrace.checkpointcontroller.lua
@@ -5756,6 +5756,7 @@ generated\databases\generic\gridscriptglobalsettings_2ce33943.obj
 generated\databases\generic\gridscriptsequence.lib
 generated\databases\generic\gunshotragdollimpulseconfig.lib
 generated\databases\generic\gunshotrigidbodypreset.lib
+generated\databases\generic\hackablenpcconfig.lib
 generated\databases\generic\hackablenpcdisabledmissionlist.lib
 generated\databases\generic\hackablenpcgameplayconfig.lib
 generated\databases\generic\hackablenpcmissionsettings.lib
@@ -8212,9 +8213,25 @@ ui\fire\sources\textures\nexus_items\outershell\check.xbt
 ui\fire\sources\textures\nexus_items\outershell\controllers\dots.xbt
 ui\fire\sources\textures\nexus_items\outershell\controllers\platform\controller.xbt
 ui\fire\sources\textures\nexus_items\outershell\controllers\platform\dots.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\durango\controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\durango\dots.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\durango\line.xbt
 ui\fire\sources\textures\nexus_items\outershell\controllers\platform\line.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\orbis\controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\orbis\dots.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\orbis\line.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\ps3\controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\ps3\dots.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\ps3\line.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\xenon\controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\xenon\dots.xbt
+ui\fire\sources\textures\nexus_items\outershell\controllers\platform\xenon\line.xbt
 ui\fire\sources\textures\nexus_items\outershell\dwl.xbt
+ui\fire\sources\textures\nexus_items\outershell\extra_controllers\platform\durango\vita_controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\extra_controllers\platform\orbis\vita_controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\extra_controllers\platform\ps3\vita_controller.xbt
 ui\fire\sources\textures\nexus_items\outershell\extra_controllers\platform\vita_controller.xbt
+ui\fire\sources\textures\nexus_items\outershell\extra_controllers\platform\xenon\vita_controller.xbt
 ui\fire\sources\textures\nexus_items\pda\pdadownload.xbt
 ui\fire\sources\textures\nexus_items\pda\pdadownloadlost.xbt
 ui\fire\sources\textures\nexus_items\pda\pdatracing.xbt

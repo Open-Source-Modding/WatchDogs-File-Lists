@@ -1,4 +1,4 @@
-; 267/271 (98%)
+; 271/271 (100%)
 ui\fire\sources\videos\dominovideos\fullscreen\1sthack_connection.bik
 ui\fire\sources\videos\dominovideos\fullscreen\a01_fb01_sc010_pre_carflash.bik
 ui\fire\sources\videos\dominovideos\fullscreen\a01_fb02_sc040_cin_lenagrave.bik
@@ -179,7 +179,9 @@ ui\fire\sources\videos\techtree\tt_grenadeexpert.bik
 ui\fire\sources\videos\techtree\tt_improvedfocus.bik
 ui\fire\sources\videos\techtree\tt_maximized_focus.bik
 ui\fire\sources\videos\techtree\tt_offensivedriver.bik
+ui\fire\sources\videos\techtree\tt_offensivedriver_cg.bik
 ui\fire\sources\videos\techtree\tt_offroader.bik
+ui\fire\sources\videos\techtree\tt_offroader_cg.bik
 ui\fire\sources\videos\techtree\tt_pistolexpert.bik
 ui\fire\sources\videos\techtree\tt_profileroptimization.bik
 ui\fire\sources\videos\techtree\tt_suregrip.bik
@@ -214,6 +216,7 @@ ui\fire\sources\videos\tutorials\mp_hacking_hacker.bik
 ui\fire\sources\videos\tutorials\mp_hacking_victim.bik
 ui\fire\sources\videos\tutorials\mp_invasions.bik
 ui\fire\sources\videos\tutorials\mp_notoriety.bik
+ui\fire\sources\videos\tutorials\mp_notoriety_cg.bik
 ui\fire\sources\videos\tutorials\mp_notoriety_contractbonus.bik
 ui\fire\sources\videos\tutorials\mp_notoriety_jamcomsboost.bik
 ui\fire\sources\videos\tutorials\mp_notoriety_nitroboost.bik
@@ -248,6 +251,7 @@ ui\fire\sources\videos\tutorials\tv_focus.bik
 ui\fire\sources\videos\tutorials\tv_focus_boost.bik
 ui\fire\sources\videos\tutorials\tv_game_progression.bik
 ui\fire\sources\videos\tutorials\tv_grid_monitoring.bik
+ui\fire\sources\videos\tutorials\tv_grid_monitoring_cg.bik
 ui\fire\sources\videos\tutorials\tv_heat_system.bik
 ui\fire\sources\videos\tutorials\tv_intimidation_contract.bik
 ui\fire\sources\videos\tutorials\tv_looting_selling_loop.bik

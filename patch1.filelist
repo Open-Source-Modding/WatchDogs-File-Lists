@@ -1,7 +1,8 @@
-; 230/234 (98%)
+; 234/234 (100%)
 credits\pc\credits.xml
 generated\databases\generic\fireuiresourceconfig_2ce33943.obj
 languages\main_brazilian.loc
+languages\main_chs.loc
 languages\main_cht.loc
 languages\main_czech.loc
 languages\main_danish.loc
@@ -21,6 +22,7 @@ languages\main_russian.loc
 languages\main_spanish.loc
 languages\main_swedish.loc
 languages\patch1_brazilian.loc
+languages\patch1_chs.loc
 languages\patch1_cht.loc
 languages\patch1_czech.loc
 languages\patch1_danish.loc
@@ -215,6 +217,8 @@ ui\fonts\dfggothicp-w5_japanese.ffd
 ui\fonts\dfggothicp-w5_japanese_1.xbt
 ui\fonts\dfpheimedium-b5_chinesetrad.ffd
 ui\fonts\dfpheimedium-b5_chinesetrad_1.xbt
+ui\fonts\dfpheiw5-a_chinesesmpl.ffd
+ui\fonts\dfpheiw5-a_chinesesmpl_1.xbt
 ui\fonts\dotagett_default.ffd
 ui\fonts\dotagett_default_1.xbt
 ui\fonts\helveticaneuelt_w1g_65_md_default.ffd
